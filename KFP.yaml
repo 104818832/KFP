@@ -1,0 +1,18 @@
+
+path: E:/xuzhuoyang/KFPS 
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Pear Leaf Healthy
+  1: Pear Leaf Chlorosis Disease
+  2: Pear Leaf Spot Disease
+  3: Pear Leaf Fire Blight
+  4: Pear Leaf Insect Damage
+  5: Pear Leaf Infestation by Pear Gall Midge
+  6: Pear Fruit Healthy
+  7: Pear Fruit Grapholita molesta Infestation
+  8: Pear Fruit Fire Blight
+  9: Pear Flower Healthy
+  10: Pear Flower Fire Blight
